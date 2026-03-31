@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A passionate AI/ML developer<br>👯 I’m looking to collaborate on some cool AI/ML projects..<br>
+🔭 A passionate AI/ML quant developer<br>👯 I’m looking to collaborate on some cool AI/ML quant projects..<br>
 
 
 ## 🌐 Socials:
